@@ -1,0 +1,283 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Database Digital Draft 1.pdf
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: inches
+Artboard Dimensions: 23.7481 in x 58.1143 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Gill Sans Ultra Bold (OTF)
+Gill Sans Ultra Bold Condensed (OTF)
+Magneto Bold (OTF)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\american-flag-50-stars-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 440K, 499 by 301 pixels
+Dimensions: 20.385 by 12.296 points 
+Resolution: 1762.492 by 1762.491 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\ASEA0001.GIF
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 394K, 388 by 260 pixels
+Dimensions: 20.082 by 13.457 points 
+Resolution: 1391.122 by 1391.122 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\Flag_of_South_Korea.svg.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 10414K, 2000 by 1333 pixels
+Dimensions: 20.215 by 13.473 points 
+Resolution: 7123.437 by 7123.437 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\Flag_of_South_Korea.svg.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 10414K, 2000 by 1333 pixels
+Dimensions: 52.56 by 35.031 points 
+Resolution: 2739.722 by 2739.722 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\american-flag-50-stars-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 440K, 499 by 301 pixels
+Dimensions: 53.002 by 31.971 points 
+Resolution: 677.866 by 677.866 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\ASEA0001.GIF
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 394K, 388 by 260 pixels
+Dimensions: 52.213 by 34.988 points 
+Resolution: 535.035 by 535.035 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\american-flag-50-stars-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 440K, 499 by 301 pixels
+Dimensions: 53.002 by 31.971 points 
+Resolution: 677.866 by 677.866 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\Flag_of_South_Korea.svg.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 10414K, 2000 by 1333 pixels
+Dimensions: 52.56 by 35.031 points 
+Resolution: 2739.722 by 2739.722 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\ASEA0001.GIF
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 394K, 388 by 260 pixels
+Dimensions: 52.213 by 34.988 points 
+Resolution: 535.035 by 535.035 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\american-flag-50-stars-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 440K, 499 by 301 pixels
+Dimensions: 53.002 by 31.971 points 
+Resolution: 677.866 by 677.866 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\Flag_of_South_Korea.svg.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 10414K, 2000 by 1333 pixels
+Dimensions: 52.56 by 35.031 points 
+Resolution: 2739.722 by 2739.722 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\ASEA0001.GIF
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 394K, 388 by 260 pixels
+Dimensions: 52.213 by 34.988 points 
+Resolution: 535.035 by 535.035 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\american-flag-50-stars-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 440K, 499 by 301 pixels
+Dimensions: 53.002 by 31.971 points 
+Resolution: 677.866 by 677.866 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\Flag_of_South_Korea.svg.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 10414K, 2000 by 1333 pixels
+Dimensions: 52.56 by 35.031 points 
+Resolution: 2739.722 by 2739.722 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\ASEA0001.GIF
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 394K, 388 by 260 pixels
+Dimensions: 52.213 by 34.988 points 
+Resolution: 535.035 by 535.035 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\american-flag-50-stars-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 440K, 499 by 301 pixels
+Dimensions: 53.002 by 31.971 points 
+Resolution: 677.866 by 677.866 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\Flag_of_South_Korea.svg.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 10414K, 2000 by 1333 pixels
+Dimensions: 52.56 by 35.031 points 
+Resolution: 2739.722 by 2739.722 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\ASEA0001.GIF
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 394K, 388 by 260 pixels
+Dimensions: 52.213 by 34.988 points 
+Resolution: 535.035 by 535.035 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\american-flag-50-stars-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 440K, 499 by 301 pixels
+Dimensions: 53.002 by 31.971 points 
+Resolution: 677.866 by 677.866 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\Flag_of_South_Korea.svg.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 10414K, 2000 by 1333 pixels
+Dimensions: 52.56 by 35.031 points 
+Resolution: 2739.722 by 2739.722 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\ASEA0001.GIF
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 394K, 388 by 260 pixels
+Dimensions: 52.213 by 34.988 points 
+Resolution: 535.035 by 535.035 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\american-flag-50-stars-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 440K, 499 by 301 pixels
+Dimensions: 53.002 by 31.971 points 
+Resolution: 677.866 by 677.866 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\Flag_of_South_Korea.svg.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 10414K, 2000 by 1333 pixels
+Dimensions: 52.56 by 35.031 points 
+Resolution: 2739.722 by 2739.722 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\ASEA0001.GIF
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 394K, 388 by 260 pixels
+Dimensions: 52.213 by 34.988 points 
+Resolution: 535.035 by 535.035 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\american-flag-50-stars-1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 440K, 499 by 301 pixels
+Dimensions: 53.002 by 31.971 points 
+Resolution: 677.866 by 677.866 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\Flag_of_South_Korea.svg.png
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 10414K, 2000 by 1333 pixels
+Dimensions: 52.56 by 35.031 points 
+Resolution: 2739.722 by 2739.722 pixels per inch
+
+
+C:\Users\Abigail\Documents\Info Arch I\Database Poster\ASEA0001.GIF
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 394K, 388 by 260 pixels
+Dimensions: 52.213 by 34.988 points 
+Resolution: 535.035 by 535.035 pixels per inch
